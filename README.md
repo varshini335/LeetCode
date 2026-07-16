@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/varshini335/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/varshini335/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/varshini335/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/varshini335/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/varshini335/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/varshini335/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/varshini335/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/varshini335/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/varshini335/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/varshini335/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Sorting
 |  |
