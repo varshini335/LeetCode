@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/varshini335/LeetCode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/varshini335/LeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/varshini335/LeetCode/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/varshini335/LeetCode/tree/master/0867-transpose-matrix) |
 ## Sliding Window
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/varshini335/LeetCode/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/varshini335/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [3692-majority-frequency-characters](https://github.com/varshini335/LeetCode/tree/master/3692-majority-frequency-characters) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/varshini335/LeetCode/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/varshini335/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/varshini335/LeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/varshini335/LeetCode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/varshini335/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/varshini335/LeetCode/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/varshini335/LeetCode/tree/master/0728-self-dividing-numbers) |
