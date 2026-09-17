@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/varshini335/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/varshini335/LeetCode/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/varshini335/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/varshini335/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/varshini335/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
