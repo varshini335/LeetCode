@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/varshini335/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/varshini335/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/varshini335/LeetCode/tree/master/1390-four-divisors) |
+| [1512-number-of-good-pairs](https://github.com/varshini335/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/varshini335/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1773-count-items-matching-a-rule](https://github.com/varshini335/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [1929-concatenation-of-array](https://github.com/varshini335/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/varshini335/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/varshini335/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/varshini335/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1512-number-of-good-pairs](https://github.com/varshini335/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/varshini335/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/varshini335/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3692-majority-frequency-characters](https://github.com/varshini335/LeetCode/tree/master/3692-majority-frequency-characters) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/varshini335/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/varshini335/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/varshini335/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1512-number-of-good-pairs](https://github.com/varshini335/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3692-majority-frequency-characters](https://github.com/varshini335/LeetCode/tree/master/3692-majority-frequency-characters) |
 ## Quickselect
 |  |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/varshini335/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1390-four-divisors](https://github.com/varshini335/LeetCode/tree/master/1390-four-divisors) |
 | [1486-xor-operation-in-an-array](https://github.com/varshini335/LeetCode/tree/master/1486-xor-operation-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/varshini335/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/varshini335/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/varshini335/LeetCode/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/varshini335/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
