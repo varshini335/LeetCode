@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/varshini335/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/varshini335/LeetCode/tree/master/1390-four-divisors) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/varshini335/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1773-count-items-matching-a-rule](https://github.com/varshini335/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [1929-concatenation-of-array](https://github.com/varshini335/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/varshini335/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/varshini335/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/varshini335/LeetCode/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/varshini335/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1773-count-items-matching-a-rule](https://github.com/varshini335/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [3692-majority-frequency-characters](https://github.com/varshini335/LeetCode/tree/master/3692-majority-frequency-characters) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
