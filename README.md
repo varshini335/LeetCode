@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/varshini335/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/varshini335/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0766-toeplitz-matrix](https://github.com/varshini335/LeetCode/tree/master/0766-toeplitz-matrix) |
+| [0769-max-chunks-to-make-sorted](https://github.com/varshini335/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0867-transpose-matrix](https://github.com/varshini335/LeetCode/tree/master/0867-transpose-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/varshini335/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/varshini335/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/varshini335/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/varshini335/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/varshini335/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0769-max-chunks-to-make-sorted](https://github.com/varshini335/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -253,8 +255,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/varshini335/LeetCode/tree/master/0561-array-partition) |
+| [0769-max-chunks-to-make-sorted](https://github.com/varshini335/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 ## Counting Sort
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/varshini335/LeetCode/tree/master/0561-array-partition) |
+## Stack
+|  |
+| ------- |
+| [0769-max-chunks-to-make-sorted](https://github.com/varshini335/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0769-max-chunks-to-make-sorted](https://github.com/varshini335/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 <!---LeetCode Topics End-->
