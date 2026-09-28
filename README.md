@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/varshini335/LeetCode/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/varshini335/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0769-max-chunks-to-make-sorted](https://github.com/varshini335/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
+| [0819-most-common-word](https://github.com/varshini335/LeetCode/tree/master/0819-most-common-word) |
 | [0867-transpose-matrix](https://github.com/varshini335/LeetCode/tree/master/0867-transpose-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/varshini335/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/varshini335/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/varshini335/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/varshini335/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/varshini335/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0819-most-common-word](https://github.com/varshini335/LeetCode/tree/master/0819-most-common-word) |
 | [1512-number-of-good-pairs](https://github.com/varshini335/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/varshini335/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/varshini335/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/varshini335/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/varshini335/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/varshini335/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0819-most-common-word](https://github.com/varshini335/LeetCode/tree/master/0819-most-common-word) |
 | [1512-number-of-good-pairs](https://github.com/varshini335/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3692-majority-frequency-characters](https://github.com/varshini335/LeetCode/tree/master/3692-majority-frequency-characters) |
 ## Quickselect
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/varshini335/LeetCode/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/varshini335/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/varshini335/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0819-most-common-word](https://github.com/varshini335/LeetCode/tree/master/0819-most-common-word) |
 | [1773-count-items-matching-a-rule](https://github.com/varshini335/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [3692-majority-frequency-characters](https://github.com/varshini335/LeetCode/tree/master/3692-majority-frequency-characters) |
 ## Boyer–Moore Majority Vote Algorithm
