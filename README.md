@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/varshini335/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/varshini335/LeetCode/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/varshini335/LeetCode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/varshini335/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/varshini335/LeetCode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/varshini335/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/varshini335/LeetCode/tree/master/0412-fizz-buzz) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/varshini335/LeetCode/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/varshini335/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/varshini335/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/varshini335/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/varshini335/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/varshini335/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/varshini335/LeetCode/tree/master/0342-power-of-four) |
 | [1486-xor-operation-in-an-array](https://github.com/varshini335/LeetCode/tree/master/1486-xor-operation-in-an-array) |
